@@ -1,0 +1,3 @@
+#Create DBA on Oracle DBA
+create user admin identified by secret
+grant dba to admin 
